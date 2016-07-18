@@ -4,8 +4,6 @@
   "description": "Demo: Mongoose integration with Elasticsearch",
   "main": "index.js",
   "scripts": {
-    "build:client": "webpack",
-    "build:service": "webpack --config webpack.service.config.js",
     "test": "ava"
   },
   "author": "Dan Ross <daniel.ross@kasra.co>",
